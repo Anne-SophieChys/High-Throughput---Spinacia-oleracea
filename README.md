@@ -1,5 +1,11 @@
 # High-Throughput-Analysis of Spinacia oleracea Genome
-## Not up-to-data yet
+```diff
+- README.md Not up-to-data yet 
+```
+
+
+
+
 This repository contains the scripts and data used for analyzing the Spinacia oleracea genome. The SP75 Genome data was obtained from the SpinachBase, and the analysis was performed using the latest version of the bioinformatics software tools.
 
 ## Prerequisites
