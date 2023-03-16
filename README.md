@@ -2,10 +2,10 @@
 ```diff
 - README.md Not up-to-data yet 
 ```
+## Credits
+This analysis was performed by Anne-Sophie Chys and Ruben Olbrechts as a part of a project of High Throughput analysis at the university of applied sciences Howest.
 
-
-
-
+## Introduction
 This repository contains the scripts and data used for analyzing the Spinacia oleracea genome. The SP75 Genome data was obtained from the SpinachBase, and the analysis was performed using the latest version of the bioinformatics software tools.
 
 ## Prerequisites
@@ -32,9 +32,6 @@ To reproduce the analysis, clone this repository and run the scripts in the foll
 1. `hisat2_alignment`: Align the reads to the SP75 genome.
 2. `featurecounts_quantification`: Quantify the expression levels of the genes.
 3. `multiqc_report`: Generate a report of the analysis results.
-
-## Credits
-This analysis was performed by Anne-Sophie Chys and Ruben Olbrechts as a part of a project of High Throughput analysis at the university of applied sciences Howest.
 
 ## References
 * SpinachBase: https://spinachbase.org/  
