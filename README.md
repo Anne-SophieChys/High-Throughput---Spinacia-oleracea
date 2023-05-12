@@ -1,9 +1,9 @@
-# High-Throughput-Analysis of the *Spinacia oleracea* Genome
+# High-Throughput-Analysis of the *Spinacia oleracea* L. Genome
 ## Credits
 This analysis was performed by Anne-Sophie Chys and Ruben Olbrechts as a part of a project of High Throughput analysis at the Howest University of Applied Sciences.
 
 ## Introduction
-This repository contains the scripts and data used for analyzing the Spinacia oleracea genome. The SP75 Genome data was obtained from the SpinachBase, and the analysis was performed using the latest version of the bioinformatics software tools.
+This repository contains the scripts and data used for analyzing the *Spinacia oleracea* L. genome. The SP75 Genome data was obtained from the [SpinachBase](http://spinachbase.org/?q=download). The goal of the performed Tigh-Throughput transcriptomics (HTTr) is to compare differentially expressed transcripts from experimental data. Root and tissue samples where available and treated with replete and deplete conditions of nitrogen during growth. RNA-Sequencing (RNA-Seq) is later used to analyse the differentially expressed genes (DEGs). The samples that where used came from the Gene Expression Omnibus (GEO) from Series [GSE145943](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145943).
 
 ## Prerequisites
 The following tools were used for this analysis:
