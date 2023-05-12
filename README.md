@@ -1,7 +1,4 @@
 # High-Throughput-Analysis of Spinacia oleracea Genome
-```diff
-- README.md Not up-to-data yet 
-```
 ## Credits
 This analysis was performed by Anne-Sophie Chys and Ruben Olbrechts as a part of a project of High Throughput analysis at the university of applied sciences Howest.
 
